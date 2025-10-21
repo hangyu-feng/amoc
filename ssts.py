@@ -8,7 +8,7 @@ import statsmodels.api as sm2
 from scipy.ndimage import gaussian_filter1d
 from scipy.io import loadmat
 
-from lagcorr import lagcorr
+# from lagcorr import lagcorr
 from EWS_functions import *
 
 import matplotlib.ticker as mticker
