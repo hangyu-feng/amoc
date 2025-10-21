@@ -1,0 +1,6 @@
+numpy
+scipy
+statsmodels
+netCDF4
+matplotlib
+cartopy
